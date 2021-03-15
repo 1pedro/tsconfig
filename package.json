@@ -1,0 +1,20 @@
+{
+	"name": "@intera/tsconfig",
+	"version": "0.1.0",
+	"description": "Shared Typescript config",
+	"author": "Intera <tech@byintera.com>",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/by-intera/tsconfig.git"
+	},
+	"bugs": {
+		"url": "https://github.com/by-intera/tsconfig/issues"
+	},
+	"homepage": "https://github.com/by-intera/tsconfig#readme",
+	"main": "tsconfig.json",
+	"keywords": [
+		"tsconfig",
+		"typescript"
+	],
+	"license": "MIT"
+}
