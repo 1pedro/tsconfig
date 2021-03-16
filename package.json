@@ -1,6 +1,6 @@
 {
 	"name": "@byintera/tsconfig",
-	"version": "0.1.0",
+	"version": "0.0.1",
 	"description": "Shared Typescript config",
 	"author": "Intera <tech@byintera.com>",
 	"repository": {
@@ -12,6 +12,9 @@
 	},
 	"homepage": "https://github.com/by-intera/tsconfig#readme",
 	"main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
 	"keywords": [
 		"tsconfig",
 		"typescript"
