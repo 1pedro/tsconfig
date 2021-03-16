@@ -1,13 +1,14 @@
-# tsconfig [![npm version](https://badge.fury.io/js/%40intera%2Ftsconfig.svg)](https://badge.fury.io/js/%40intera%2Ftsconfig)
+# tsconfig
 
-Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+[![npm version](https://badge.fury.io/js/%40byintera%2Ftsconfig.svg)](https://badge.fury.io/js/%40byintera%2Ftsconfig)
+
+Intera's Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 
 ## Install
 
 ```
 $ npm install --save-dev @byintera/tsconfig
 ```
-
 
 ## Usage
 
