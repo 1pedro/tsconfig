@@ -5,7 +5,7 @@ Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig
 ## Install
 
 ```
-$ npm install --save-dev @intera/tsconfig
+$ npm install --save-dev @byintera/tsconfig
 ```
 
 
@@ -15,7 +15,7 @@ $ npm install --save-dev @intera/tsconfig
 
 ```json
 {
-	"extends": "@intera/tsconfig",
+	"extends": "@byintera/tsconfig",
 	"compilerOptions": {
 		"outDir": "build",
 		"target": "es5",
