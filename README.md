@@ -1,13 +1,10 @@
 # tsconfig
-
-[![npm version](https://badge.fury.io/js/%40byintera%2Ftsconfig.svg)](https://badge.fury.io/js/%40byintera%2Ftsconfig)
-
-Intera's Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+Pedro's Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 
 ## Install
 
 ```
-$ npm install --save-dev @byintera/tsconfig
+$ npm install --save-dev @1pedro/tsconfig
 ```
 
 ## Usage
@@ -16,10 +13,10 @@ $ npm install --save-dev @byintera/tsconfig
 
 ```json
 {
-	"extends": "@byintera/tsconfig",
+	"extends": "@1pedro/tsconfig",
 	"compilerOptions": {
 		"outDir": "build",
-		"target": "es5",
+		"target": "es5"
 	}
 }
 ```

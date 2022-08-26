@@ -1,16 +1,16 @@
 {
-	"name": "@byintera/tsconfig",
+	"name": "@1pedro/tsconfig",
 	"version": "0.1.1",
 	"description": "Shared Typescript config",
-	"author": "Intera <tech@byintera.com>",
+	"author": "Pedro <pedrojefferson.dev@gmail.com>",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/by-intera/tsconfig.git"
+		"url": "git+https://github.com/1pedro/tsconfig.git"
 	},
 	"bugs": {
-		"url": "https://github.com/by-intera/tsconfig/issues"
+		"url": "https://github.com/1pedro/tsconfig/issues"
 	},
-	"homepage": "https://github.com/by-intera/tsconfig#readme",
+	"homepage": "https://github.com/1pedro/tsconfig#readme",
 	"main": "tsconfig.json",
 	"files": [
 		"tsconfig.json"
