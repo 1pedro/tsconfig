@@ -1,6 +1,6 @@
 {
 	"name": "@1pedro/tsconfig",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Shared Typescript config",
 	"author": "Pedro <pedrojefferson.dev@gmail.com>",
 	"repository": {
@@ -19,8 +19,8 @@
 		"tsconfig",
 		"typescript"
 	],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	},
 	"license": "MIT"
 }
